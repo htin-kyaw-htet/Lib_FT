@@ -1,4 +1,4 @@
-_This project has been created as part of the 42 curriculum by kthu._
+_This project has been created as part of the 42 curriculum by Htkyaw._
 
 # Libft
 
